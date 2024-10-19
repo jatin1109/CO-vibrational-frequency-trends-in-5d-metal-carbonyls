@@ -1,0 +1,14 @@
+MoCO5F.gbw      # the GBW file
+MoCO5F.pin.tmp      # the perturbation matrices
+MoCO5F.pout.tmp      # the perturbed wavefunction output
+1      # perturbation mode
+2      # type of solver
+128      # the max. number of iterations
+12      # max. dimension for DIIS
+1.000000000000e-04 # the convergence tolerance
+3.000000000000e-01 # the level shift for DIIS
+36      # the number of perturbations
+2      # the number of operators
+0 46 47 184     # the orbital window for operator 0
+0 45 46 184     # the orbital window for operator 1
+1      # Printlevel for CP-SCF program

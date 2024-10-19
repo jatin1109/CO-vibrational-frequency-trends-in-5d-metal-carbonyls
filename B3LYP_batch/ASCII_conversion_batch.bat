@@ -1,0 +1,16 @@
+gc HfCO6.out | Out-File -encoding ASCII HfCO6_ASCII.out
+gc HfCO6+.out | Out-File -encoding ASCII HfCO6+_ASCII.out
+gc HfCO6-2.out | Out-File -encoding ASCII HfCO6-2_ASCII.out
+gc TaCO6.out | Out-File -encoding ASCII TaCO6_ASCII.out
+gc TaCO6-.out | Out-File -encoding ASCII TaCO6-_ASCII.out
+gc WCO6-.out | Out-File -encoding ASCII WCO6-_ASCII.out
+gc WCO6.out | Out-File -encoding ASCII WCO6_ASCII.out
+gc OsCO6.out | Out-File -encoding ASCII OsCO6_ASCII.out
+gc MoCO6.out | Out-File -encoding ASCII MoCO6_ASCII.out
+gc MoCO5F-.out | Out-File -encoding ASCII MoCO5F-_ASCII.out
+gc MoCO5Cl.out | Out-File -encoding ASCII MoCO5Cl_ASCII.out
+gc MoCO5CN.out | Out-File -encoding ASCII MoCO5CN_ASCII.out
+gc MoCO5NO.out | Out-File -encoding ASCII MoCO5NO_ASCII.out
+gc MoCO5NO-.out | Out-File -encoding ASCII MoCO5NO-_ASCII.out
+gc MoCO5NO+.out | Out-File -encoding ASCII MoCO5NO+_ASCII.out
+gc MoCO5NH3.out | Out-File -encoding ASCII MoCO5NH3_ASCII.out
